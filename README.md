@@ -14,7 +14,8 @@ El **Cuarteto de Anscombe** es un conjunto clásico de cuatro datasets con **id�
 Este ejemplo demuestra por qué es crucial **ver los datos** antes de sacar conclusiones basadas solo en medias, desviaciones o correlaciones.
 
 ### Ejemplo visual (Cuarteto de Anscombe)
-![Anscombe](https://upload.wikimedia.org/wikipedia/commons/3/3e/Anscombe%27s_quartet_3.svg)
+<img width="1000" height="727" alt="image" src="https://github.com/user-attachments/assets/ba1663fe-1f47-4d17-afa7-ab8abeb1b695" />
+
 
 ---
 
