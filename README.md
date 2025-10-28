@@ -7,7 +7,7 @@
 
 ---
 
-## 📊 Importancia de la Visualización de Datos
+##  Importancia de la Visualización de Datos
 
 La visualización de datos permite interpretar patrones, relaciones y comportamientos que los números por sí solos no revelan.  
 El **Cuarteto de Anscombe** es un conjunto clásico de cuatro datasets con **idénticas estadísticas resumidas**, pero **formas completamente distintas** cuando se grafican.  
@@ -18,7 +18,7 @@ Este ejemplo demuestra por qué es crucial **ver los datos** antes de sacar conc
 
 ---
 
-## 🔍 Referencia
+##  Referencia
 Anscombe, F. J. (1973). *Graphs in Statistical Analysis*. The American Statistician, 27(1), 17–21.  
 DOI: [10.2307/2682899](https://doi.org/10.2307/2682899)
 
