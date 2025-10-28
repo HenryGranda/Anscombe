@@ -24,5 +24,12 @@ El cuarteto de Ascombe muestra cómo datos con propiedades estadísticas iguales
 
 ---
 
-## 📂 Estructura del repositorio
+##  Estructura del repositorio
+## Contenido del repositorio
+- **data/**: conjuntos de datos usados (Anscombe y Datasaurus Dozen).
+- **R/**: scripts y reportes en R para visualizar los 13 subconjuntos y el análisis del seleccionado.
+- **herramienta/RStudio/**: evidencia de la herramienta usada para la regresión lineal.
 
+## Dataset del Datasaurus analizado
+Subconjunto: **h_lines** (bandas horizontales).  
+Conclusión breve: **correlación lineal ≈ 0** pero **estructura por niveles**; la visualización es esencial.
