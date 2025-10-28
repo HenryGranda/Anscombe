@@ -20,8 +20,7 @@ Este ejemplo demuestra por qué es crucial **ver los datos** antes de sacar conc
 ---
 
 ##  Referencia
-Anscombe, F. J. (1973). *Graphs in Statistical Analysis*. The American Statistician, 27(1), 17–21.  
-DOI: [10.2307/2682899](https://doi.org/10.2307/2682899)
+El cuarteto de Ascombe muestra cómo datos con propiedades estadísticas iguales pueden ser bastante distintos. (s/f). Microsiervos. Recuperado el 28 de octubre de 2025, de https://www.microsiervos.com/archivo/matematicas/cuarteto-de-ascombe-datos-propiedades-estadisticas.html
 
 ---
 
